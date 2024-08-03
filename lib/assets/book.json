@@ -1,0 +1,38 @@
+[
+  {
+    "title": "The Rebel",
+    "coverPath": "lib/assets/covers/Rebel.jpg",
+    "mindMapPath": "lib/assets/mindmaps/Rebel.jpg",
+    "sections": [
+      {
+        "title": "Introduction",
+        "subSections": [
+          {
+            "title": "Foreword",
+            "content": "Foreword by Sir Herbert Read..."
+          },
+          {
+            "title": "Premeditated Crimes",
+            "content": "Discussion on premeditated crimes..."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Another Book",
+    "coverPath": "lib/assets/covers/CnP.jpg",
+    "mindMapPath": "lib/assets/mindmaps/CnP.jpg",
+    "sections": [
+      {
+        "title": "Section 1",
+        "subSections": [
+          {
+            "title": "SubSection 1",
+            "content": "Content of subsection 1..."
+          }
+        ]
+      }
+    ]
+  }
+]

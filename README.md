@@ -8,6 +8,8 @@ If you were an avid reader and you forgot most of the stuff that you read and yo
 As per this commit, you will need to do some manual work on creating a json file for your book and add it in the lib/assets/books folder.
 Please make sure that the json structure is compatible by referring to other books in the folder.
 
+### Next step is to make the UI better. Stay tuned for a Figma prototype with a better design 
+
 HAVE FUN
 
 

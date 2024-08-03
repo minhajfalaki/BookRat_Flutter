@@ -1,16 +1,14 @@
-# mobile_apps
+# BookRat_Flutter_App
 
-A new Flutter project.
+This is a simple android mobile app in flutter.
+If you were an avid reader and you lost the art of reading a full long book, then this app will help.
+If you were an avid reader and you forgot most of the stuff that you read and you want to freshen it up. Then this app is for you.
 
 ## Getting Started
+As per this commit, you will need to do some manual work on creating a json file for your book and add it in the lib/assets/books folder.
+Please make sure that the json structure is compatible by referring to other books in the folder.
 
-This project is a starting point for a Flutter application.
+HAVE FUN
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
